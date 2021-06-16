@@ -1,0 +1,21 @@
+.nav{
+    background-color: #336f7a;  
+}
+
+.link a{
+    color:white !important;
+    font-size: 20px;
+}
+.link a:hover{
+    color:red !important;
+    border-bottom: 2px solid red;
+    
+    /* justify-content: space-between; */
+}
+.brand{
+    color: white !important;
+    font-weight: bolder;
+}
+.brand:hover{
+    color: tomato !important;
+}
